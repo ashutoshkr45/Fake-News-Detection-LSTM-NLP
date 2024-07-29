@@ -6,7 +6,6 @@ import re
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem.porter import PorterStemmer
-from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix
 import tensorflow as tf
 from tensorflow.keras.models import Sequential

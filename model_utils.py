@@ -71,7 +71,7 @@ def create_model(voc_size, vector_features, input_length):
     model = Sequential()
     model.add(Embedding(voc_size, vector_features, input_length=input_length))
     model.add(Dropout(0.3))
-    model.add(LSTM(64))
+    model.add(LSTM(32))
     model.add(Dropout(0.3))
     model.add(Dense(1, activation='sigmoid'))
     model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])

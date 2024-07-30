@@ -40,7 +40,7 @@ With the proliferation of misinformation, especially during critical events like
 The model achieved an accuracy of 99% on the splitted test set, demonstrating its effectiveness in detecting Fake news.
 
 ## CONCLUSION
-The project successfully demonstrates a high-accuracy Fake News Detection model. Both Jupyter notebooks are well-documented, providing clear insights into the data processing and model development stages.
+The project successfully demonstrates a high-accuracy Fake News Detection model. Both Jupyter notebooks are well-documented, providing clear insights into the data processing and model development stages. The `test.csv` file is also included in the repository, and the model tends to perform better on this data due to similar domain.
 
 ## REQUIREMENTS
 The required dependencies are listed in `requirements.txt` and can be installed via:<span style="color:blue"></span>

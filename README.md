@@ -20,7 +20,7 @@ The project workflow includes:
 3. **Model Deployment** (`app.py` for Flask app)
 
 ## MOTIVATION
-With the rise of misinformation, especially in the political domain, there is a need for automated systems to help identify fake news. This project contributes to this effort by developing a robust model capable of detecting unreliable news articles.
+With the proliferation of misinformation, especially during critical events like elections, there is an urgent need for automated systems to help identify and curb the spread of fake news. Fake news can have severe implications on public opinion and democracy. This project aims to address this issue by developing a robust model capable of detecting unreliable news articles. By leveraging Deep Learning techniques, the goal is to provide an efficient and accurate solution to assist in maintaining the integrity of information in the digital age.
 
 ## TECHNICAL ASPECTS
 ### Data Visualization and Exploration
@@ -43,6 +43,6 @@ The model achieved an accuracy of 99% on the splitted test set, demonstrating it
 The project successfully demonstrates a high-accuracy Fake News Detection model. Both Jupyter notebooks are well-documented, providing clear insights into the data processing and model development stages.
 
 ## REQUIREMENTS
-The required dependencies are listed in `requirements.txt` and can be installed via:
+The required dependencies are listed in `requirements.txt` and can be installed via:<span style="color:blue">pip</span>:
 
-pip install -r requirements.txt
+                                pip install -r requirements.txt

@@ -37,12 +37,12 @@ With the proliferation of misinformation, especially during critical events like
 - **Web App Link**: [Fake News Detector Web App (RENDER)](https://fake-news-detection-ashutosh.onrender.com/)
 
 ## RESULTS
-The model achieved an accuracy of 99% on the splitted test set, demonstrating its effectiveness in detecting fake news.
+The model achieved an accuracy of 99% on the splitted test set, demonstrating its effectiveness in detecting Fake news.
 
 ## CONCLUSION
 The project successfully demonstrates a high-accuracy Fake News Detection model. Both Jupyter notebooks are well-documented, providing clear insights into the data processing and model development stages.
 
 ## REQUIREMENTS
-The required dependencies are listed in `requirements.txt` and can be installed via:<span style="color:blue">pip</span>:
+The required dependencies are listed in `requirements.txt` and can be installed via:<span style="color:blue"></span>
 
                                 pip install -r requirements.txt

@@ -1,7 +1,7 @@
 # Fake News Detector
 
 ## DESCRIPTION
-This project aims to detect fake news using a Deep Learning model. The primary focus is on political news, particularly during the 2016 USA elections. The model processes the title, author, and text of articles to classify them as reliable or fake.
+This project aims to detect fake news using a Deep Learning model. The primary focus is on political news, particularly during the 2016 USA elections. The model processes the title, author, and text of articles to classify them as Reliable or Fake.
 
 ## DATASET
 The dataset is sourced from a Kaggle competition and can be accessed [here](https://www.kaggle.com/competitions/fake-news/data?select=train.csv). It includes:
